@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "csv-parser": "^3.2.0",
+    "selenium": "^2.20.0",
+    "selenium-webdriver": "^4.32.0",
+    "webdriver": "^9.12.6"
+  }
+}
